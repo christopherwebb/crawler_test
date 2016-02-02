@@ -2,7 +2,7 @@
 
 ### To run
 ```
-> python scraper.py
+> python scraper.py 'http://www.example.com/' outfile.json
 ```
 
 ### Shortcomings of this program
